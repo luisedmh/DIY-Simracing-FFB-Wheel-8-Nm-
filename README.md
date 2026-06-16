@@ -52,7 +52,7 @@ All structural and aesthetic parts were 3D modeled and manufactured using **FDM 
 
 | Front View | Internal Mechanism |
 | :---: | :---: |
-| ![Front View](https://via.placeholder.com/400x300) | ![Mechanism](https://via.placeholder.com/400x300) |
+| ![Front View](./Gallery/Wheel/IMG_8589.jpeg) | ![Mechanism](./Gallery/Wheel/IMG_8595.jpg) |
 
 ---
 
