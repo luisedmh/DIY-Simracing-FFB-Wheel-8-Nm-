@@ -48,11 +48,9 @@ All structural and aesthetic parts were 3D modeled and manufactured using **FDM 
 
 ## Gallery & Demonstration
 
-*(Pro-tip: Add actual photos of your build and a GIF or YouTube link showing the Force Feedback working in-game).*
-
 | Front View | Internal Mechanism |
 | :---: | :---: |
-| ![Front View](./Gallery/Wheel/IMG_8589.jpeg) | ![Mechanism](./Gallery/Wheel/IMG_8595.jpg) |
+| <img src="./Gallery/Wheel/IMG_8589.jpeg" width="400" alt="Front View"> | <img src="./Gallery/Wheel/IMG_8595.jpg" width="400" alt="Internal Mechanism"> |
 
 ---
 
